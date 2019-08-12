@@ -1,11 +1,11 @@
 # Site settings
-author: Matt Pitner
-title: 
+author: Matt W Pitner
+title: Matt's Blog
 header-img: img/home-bg.png
 email: mattpitner09@gmail.com
-copyright_name: Matt Pitner
+copyright_name: Matt W Pitner
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A collection of my experiences in the world of programming. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mattpitner
